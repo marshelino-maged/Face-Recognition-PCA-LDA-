@@ -3,5 +3,5 @@
 *.log
 *.pgm
 dataset/README
-*.jpg
 *.jpeg
+*.jpg
